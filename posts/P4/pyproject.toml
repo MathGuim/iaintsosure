@@ -1,0 +1,13 @@
+[project]
+name = "p4"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.7",
+    "pandas>=2.3.3",
+    "pytest>=9.0.1",
+    "scikit-learn>=1.7.2",
+]
